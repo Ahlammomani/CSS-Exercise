@@ -1,0 +1,44 @@
+* {
+    text-align: left;
+}
+h1 {
+    font: size 20px;
+    text-align: left;
+}
+.container {
+    display: inline-block; 
+    max-width: 50%; 
+    margin: 20px auto;
+    padding: 20px;
+    background-color:bisque;
+    text-align: left; 
+}
+.box {
+    display: inline-block; 
+    background-color:aqua; 
+    padding: 15px; 
+    margin-bottom: 15px; 
+    font-size: 12px;
+    line-height: 1;
+    color:black;
+    font-family: 'Georgia', serif;
+    width: 150px;  
+    height: 150px; 
+    text-align: left;  
+    line-height: 20px;  
+}
+
+p {
+    font-size: 12px;
+    line-height: 1;
+    color:black;
+    font-family: 'Georgia', serif;
+    text-align: left;
+    margin-top: 20px;
+    font-weight: bold;
+    overflow: scroll;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    position: relative;
+
+}
