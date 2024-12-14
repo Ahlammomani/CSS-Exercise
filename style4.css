@@ -1,0 +1,25 @@
+table {
+    width: 10%;
+    border-collapse:separate;
+}
+.table-container {
+    display: inline-block; 
+    margin: 10px; 
+    
+}
+th, td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+th {
+    background-color: #f4f4f4;
+}
+td {
+    background-color: #fafafa;
+}
+tr:nth-child(even) td {
+    background-color: #f9f9f9;
+}

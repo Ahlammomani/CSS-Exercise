@@ -1,2 +1,2 @@
 # CSS-Exercise
- 3 ==HTML== pages styled with ==CSS== :joy
+ 3 HTML pages styled with CSS
