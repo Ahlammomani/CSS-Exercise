@@ -1,17 +1,8 @@
 *{
-    font-size: 23px;
+    font-size: 25px;
 }
-h1{
+h1 {
     text-decoration: underline;
-}
-p a{
-    color: orange;
-}
-p:nth-child(2){
-    color: blue;
-}
-p:nth-child(4) a {
-    background-color: yellow;
 }
 ol {
     list-style-type: circle;
@@ -19,9 +10,19 @@ ol {
 ol li {
     color: blue;
 }
-ul li:nth-child(1){
+ul span{
     font-weight: bold;
 }
-ul a {
+ul a{
     color: red;
 }
+p2 a {
+    background-color: yellow;
+}
+p a{
+    color: orange;
+}
+p > samp{
+    color: blue;
+}
+
